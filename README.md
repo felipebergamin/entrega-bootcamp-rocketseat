@@ -59,3 +59,11 @@ adb reverse tcp:8000 tcp:8000
 ```
 
 Isso redirecionará requisições localhost:8000 no dispositivo Android para sua máquina.
+
+Este repositório foi criado apenas para entrega do projeto, com os três projetos juntos em um mesmo repositório. Os repositórios originais usados durante o desenvolvimento podem ser acessados nos links abaixo:
+
+[Backend / NodeJS](https://github.com/felipebergamin/gostack10-fastfeed-backend)
+
+[Web / ReactJS](https://github.com/felipebergamin/gostack10-fastfeed-recatjs)
+
+[Mobile / React Native](https://github.com/felipebergamin/gostack10-fastfeet-mobile)
