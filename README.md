@@ -4,6 +4,12 @@ Este repositório contém os três projetos (backend, web e mobile) para a concl
 
 O projeto desenvolvido foi o Fastfeet
 
+## Certificado Recebido
+
+http://certificado.rocketseat.com.br
+
+Código: 825b68e5-b51c-4b73-9a1f-4ca8ccebfd65
+
 ## Executando o backend ⚙
 
 ```sh
